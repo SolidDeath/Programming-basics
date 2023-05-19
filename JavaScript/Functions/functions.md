@@ -25,9 +25,10 @@ let functionName = function() {
 Arrow functions were introduced with ES6 as a new syntax for writing JavaScript functions. They save developers time and simplify function scope.
 
 ```
-let functionName = function() {
-    // function body
+let sayWelcome = () => {
+  console.log("Welcome, world!");
 }
+sayWelcome();
 ```
 ## How to Use:
 You can use a function by calling it. For example, functionName(). If a function is taking parameters, you can pass those values while calling the function like functionName(param1, param2). Function returns the value using return keyword.
