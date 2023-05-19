@@ -21,7 +21,7 @@ console.log(fruits[1]); // Outputs: Banana
 
 fruits[1] = "Blueberry";
 console.log(fruits); // Outputs: ["Apple", "Blueberry", "Cherry"]
-
+```
 ## Exercise Tasks
 
 ### Easy level
