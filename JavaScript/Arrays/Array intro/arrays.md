@@ -14,12 +14,12 @@ let arrayName = [element1, element2, element3];
 
 JavaScript provides many built-in methods to work with arrays. Here are some commonly used methods:
 
-- ~`push()`~: Adds one or more elements to the end of an array and returns the new length of the array.
-- ~`pop()`~: Removes the last element from an array and returns that element.
-- ~`shift()`~: Removes the first element from an array and returns that element.
-- ~`unshift()`~: Adds one or more elements to the front of an array and returns the new length of the array.
-- ~`slice()`~: Returns a shallow copy of a portion of an array.
-- ~`splice()`~: Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
+- ```push()```: Adds one or more elements to the end of an array and returns the new length of the array.
+- ```pop()```: Removes the last element from an array and returns that element.
+- ```shift()```: Removes the first element from an array and returns that element.
+- ```unshift()```: Adds one or more elements to the front of an array and returns the new length of the array.
+- ```slice()```: Returns a shallow copy of a portion of an array.
+- ```splice()```: Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
 
 ## 3. Example and Output
 
@@ -66,7 +66,7 @@ console.log(fruits);
 
 ### Easy Level:
 
-Create an array ~`numbers`~ and add the numbers from 1 to 5 using the ```push()``` method.
+Create an array ```numbers``` and add the numbers from 1 to 5 using the ```push()``` method.
 
 ### Medium Level:
 
