@@ -19,7 +19,7 @@
 
 /*
     ==================== Hard Level: ====================
-    Write a function that takes a string as an argument and returns a function. The returned function should take a number as an argument and repeat the string that number of times.
+    Write a recursive function that calculates the factorial of a number. The factorial of a number is the product of all positive integers less than or equal to that number.
 */
 
 
